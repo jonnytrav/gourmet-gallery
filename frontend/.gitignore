@@ -4,8 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-# ****** ATTEMPTING TO NOT PUSH BACKEND WITH FRONTEND ******
-../backend
 
 
 # testing
